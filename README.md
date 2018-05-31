@@ -1,2 +1,2 @@
 # Srtarting
-Just a repository to starting
+Just a repository to start using GitHub
